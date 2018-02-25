@@ -16,7 +16,7 @@ int main()
 	  {
 	  	 for(int i=0; i<3; i++)
 	  	 {
-	  	    if(i==j)
+	  	    if(i==j+1)
 			  {
 			    sum+=masiv[j][i];
 			  	
