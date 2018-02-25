@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+
 int main()
 {
 	int masiv[3][3], sum=0;
@@ -25,4 +25,5 @@ int main()
 		   }
 	  }
 	        cout<< sum;
+	return 0;
 }
